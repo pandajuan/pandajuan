@@ -32,6 +32,12 @@ I am a physicist with over 30 years of research experience across diverse fields
 
 - **Languages:** Fortan90, CLisp, Python
 
+## 📫 Get in Touch
+
+- LinkedIn: [https://www.linkedin.com/in/juan-neirotti]
+- Email: j.p.neirotti@gmail.com
+
+
 ## 📈 GitHub Stats
 
 ![Pandajuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandajuan&show_icons=true&theme=radical)
@@ -48,10 +54,6 @@ Here are some of my favorite projects that I've worked on:
    - Description: A brief description of the project.
    - Technologies: [Django, PostgreSQL, Docker]
 
-## 📫 Get in Touch
-
-- LinkedIn: [https://www.linkedin.com/in/juan-neirotti]
-- Email: j.p.neirotti@gmail.com
 
 ## 🔗 Links
 
