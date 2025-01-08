@@ -30,7 +30,7 @@ I am a physicist with over 30 years of research experience across diverse fields
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Fortan90, CLisp, Python
+- **Languages:** Fortan90, Common Lisp (CMUCL), Python
 
 ## 📫 Get in Touch
 
