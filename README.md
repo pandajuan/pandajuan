@@ -41,14 +41,15 @@ I am a physicist with over 30 years of research experience across diverse fields
 ## 📈 GitHub Stats
 
 ![Pandajuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandajuan&show_icons=true&theme=radical)
-<!--
+
 ## 🌟 Top Projects
 
 Here are some of my favorite projects that I've worked on:
 
-1. **[Project Name](https://github.com/pandajuan/project-name)**
-   - Description: A brief description of the project.
-   - Technologies: [React, Node.js, MongoDB]
+1. **Clisp Monte Carlo(https://github.com/pandajuan/project-name)**
+   - Description: A parallel-tempering MC implemented in Common Lisp where the states of the system are represented by lisp programs.
+
+   <!--
 
 2. **[Another Project](https://github.com/pandajuan/another-project)**
    - Description: A brief description of the project.
