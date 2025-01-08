@@ -24,7 +24,7 @@ I am a physicist with over 30 years of research experience across diverse fields
 
 - 🌱 I’m currently learning new technologies and improving my skills as data scientist and in machine learning.
 - 👨‍💻 I enjoy working on difficult problems and on learning new techniques and ideas.
-- 🎓 I have a background in statistical physics (rigurous results, solid-state physics, Monte Carlos simulations, interacting neural networks, genetic programming, ...) with 37 articles published in peer-reviewed journals.
+- 🎓 I have a background in statistical physics (rigurous results, solid-state physics, Monte Carlo simulations, interacting neural networks, genetic programming, ...) with 37 articles published in peer-reviewed journals.
 - 🎓 I have taught several math subjects, from Calculus and ODEs to Numerical Analysis, including Statistical Machine Learning and Artificial Neural Networks at a MSc level, for almost 20 years and to more than 2000 students.
 - 💬 I have used Fortran90 (in parallel, with MPI), lisp (CMUCLisp in parallel with a developed-from-scratch PVM platform) and I am currently improving my Python (PyTorch mostly).
 
