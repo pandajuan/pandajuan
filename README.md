@@ -46,7 +46,7 @@ I am a physicist with over 30 years of research experience across diverse fields
 
 Here are some of my favorite projects that I've worked on:
 
-1. **Clisp Monte Carlo(https://github.com/pandajuan/project-name)**
+1. **Clisp Monte Carlo(https://github.com/pandajuan/Clisp-Monte-Carlo)**
    - Description: A parallel-tempering MC implemented in Common Lisp where the states of the system are represented by lisp programs.
 
    <!--
